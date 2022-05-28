@@ -9,6 +9,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 />
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1075](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1075) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
+2. ❗️ Opened issue [#4011](https://github.com/EddieHubCommunity/support/issues/4011) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 💪 Opened PR [#926](https://github.com/kunal-kushwaha/commclassroomOP/pull/926) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
 <!--END_SECTION:activity-->
 
 
