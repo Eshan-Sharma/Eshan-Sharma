@@ -79,9 +79,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1075](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1075) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
-2. ❗️ Opened issue [#4011](https://github.com/EddieHubCommunity/support/issues/4011) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 💪 Opened PR [#926](https://github.com/kunal-kushwaha/commclassroomOP/pull/926) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
+1. 💪 Opened PR [#1137](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1137) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❗️ Opened issue [#1136](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1136) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. 💪 Opened PR [#1075](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1075) in [EddieHubCommunity/hacktoberfest-practice](https://github.com/EddieHubCommunity/hacktoberfest-practice)
 <!--END_SECTION:activity-->
 
 
