@@ -8,6 +8,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
    src="https://github-readme-stats.vercel.app/api?username=eshan-sharma&show_icons=true&theme=tokyonight" 
 />
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 
 
