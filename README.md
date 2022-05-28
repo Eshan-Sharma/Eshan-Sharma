@@ -9,7 +9,6 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 />
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 
