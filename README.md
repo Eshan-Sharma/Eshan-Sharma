@@ -79,8 +79,8 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1141](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1141) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. 🗣 Commented on [#1141](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1141) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#1144](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1144) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. ❌ Closed PR [#1141](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1141) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 3. 🗣 Commented on [#1141](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1141) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 
