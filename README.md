@@ -79,9 +79,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1137](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1137) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-2. ❌ Closed PR [#926](https://github.com/kunal-kushwaha/commclassroomOP/pull/926) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
-3. 💪 Opened PR [#1137](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1137) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#1140](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1140) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+2. 🗣 Commented on [#1137](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/1137) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❌ Closed PR [#926](https://github.com/kunal-kushwaha/commclassroomOP/pull/926) in [kunal-kushwaha/commclassroomOP](https://github.com/kunal-kushwaha/commclassroomOP)
 <!--END_SECTION:activity-->
 
 
