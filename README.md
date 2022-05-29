@@ -7,7 +7,7 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 
 <h2>🛠 My Toolkit</h2>
 
-<p align="left">
+<p align="center">
     <a title="Java" href="https://www.oracle.com/java/technologies/" target="_blank">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg" alt="java" width="45" height="45" />
     </a>
@@ -33,7 +33,7 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="45" height="50" />
     </a>
 </p>
-<p align="left">
+<p align="center">
     <a title="MySQL" href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
   </a>
@@ -69,12 +69,13 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 </p>
       
 <h2>🤝 Let's connect!</h2>
+<p align="left">
 <a href="https://www.linkedin.com/in/eshan-sharma-a87b12190/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/Eshan_Sharma__" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  
     <br/>
     <br/>
 <a href="https://github.com/eshan-sharma/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=eshan-sharma">
-</a>
+</a></p>
 
 <h2>💎 Recent Activity</h2>
 
