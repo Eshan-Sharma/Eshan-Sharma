@@ -1,5 +1,7 @@
 ## Hi there everyone👋
 
+![Move, Touch, Inspire](https://user-images.githubusercontent.com/43044334/170928139-d2f7459a-9bf6-4317-9618-b47df5721076.gif)
+
 <h2> ✨ About Me </h2>
 I am Eshan Sharma, currently a junior software developer. 
 
