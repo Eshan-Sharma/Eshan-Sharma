@@ -82,9 +82,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1358](https://github.com/EddieHubCommunity/LinkFree/issues/1358) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🗣 Commented on [#1339](https://github.com/EddieHubCommunity/LinkFree/issues/1339) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1145](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/1145) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+1. 💪 Opened PR [#5](https://github.com/FahimFBA/FahimFBA/pull/5) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+2. ❗️ Opened issue [#4](https://github.com/FahimFBA/FahimFBA/issues/4) in [FahimFBA/FahimFBA](https://github.com/FahimFBA/FahimFBA)
+3. 🗣 Commented on [#1358](https://github.com/EddieHubCommunity/LinkFree/issues/1358) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 
