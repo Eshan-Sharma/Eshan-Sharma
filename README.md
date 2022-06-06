@@ -82,9 +82,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Eshan-Sharma/demo-github-action/pull/5) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
-2. 🎉 Merged PR [#4](https://github.com/Eshan-Sharma/demo-github-action/pull/4) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
-3. 💪 Opened PR [#4](https://github.com/Eshan-Sharma/demo-github-action/pull/4) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
+1. 🎉 Merged PR [#5](https://github.com/Eshan-Sharma/demo-github-action/pull/5) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
+2. 💪 Opened PR [#5](https://github.com/Eshan-Sharma/demo-github-action/pull/5) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
+3. 🎉 Merged PR [#4](https://github.com/Eshan-Sharma/demo-github-action/pull/4) in [Eshan-Sharma/demo-github-action](https://github.com/Eshan-Sharma/demo-github-action)
 <!--END_SECTION:activity-->
 
 
