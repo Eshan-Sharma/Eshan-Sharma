@@ -82,9 +82,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/EddieHubCommunity/EddieBot/issues/714) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-2. 💪 Opened PR [#714](https://github.com/EddieHubCommunity/EddieBot/pull/714) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-3. 🗣 Commented on [#690](https://github.com/EddieHubCommunity/EddieBot/issues/690) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. 💪 Opened PR [#1](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/1) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
+2. 🗣 Commented on [#714](https://github.com/EddieHubCommunity/EddieBot/issues/714) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. 💪 Opened PR [#714](https://github.com/EddieHubCommunity/EddieBot/pull/714) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
 <!--END_SECTION:activity-->
 
 
