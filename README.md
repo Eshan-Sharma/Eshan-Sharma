@@ -82,9 +82,9 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
 <h2>💎 Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/2) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
-2. 💪 Opened PR [#2](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/2) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
-3. 🎉 Merged PR [#1](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/1) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
+1. 🎉 Merged PR [#1](https://github.com/Eshan-Sharma/odin-recipes/pull/1) in [Eshan-Sharma/odin-recipes](https://github.com/Eshan-Sharma/odin-recipes)
+2. 💪 Opened PR [#1](https://github.com/Eshan-Sharma/odin-recipes/pull/1) in [Eshan-Sharma/odin-recipes](https://github.com/Eshan-Sharma/odin-recipes)
+3. 🎉 Merged PR [#2](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/2) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
 <!--END_SECTION:activity-->
 
 
