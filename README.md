@@ -1,92 +1,66 @@
-## Hi there everyone👋
+
+## Hey, I'm Eshan Sharma :wave:
+![](https://komarev.com/ghpvc/?username=eshan-sharma)
+[![Twitter: Eshan_Sharma__](https://img.shields.io/twitter/follow/Eshan_Sharma__?style=social)](https://twitter.com/Eshan_Sharma__)
+[![Linkedin: Eshan Sharma](https://img.shields.io/badge/-EshanSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshan-sharma-a87b12190/)](https://www.linkedin.com/in/eshan-sharma-a87b12190/)
+[![Static Badge](https://img.shields.io/badge/Leetcode-grey?logo=Leetcode&link=https%3A%2F%2Fleetcode.com%2FEshan-Sharma%2F)](https://leetcode.com/Eshan-Sharma/)
+[![GitHub eshan-sharma](https://img.shields.io/github/followers/eshan-sharma?label=follow&style=social)](https://github.com/eshan-sharma)
 
 ![Move, Touch, Inspire](https://user-images.githubusercontent.com/43044334/170928139-d2f7459a-9bf6-4317-9618-b47df5721076.gif)
 
-<h2> ✨ About Me </h2>
-I am Eshan Sharma, currently a junior software developer. 
+## :sparkles: About Me
+I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full Stack Development, exploring various aspects of the tech world. Learning new things excites me!
 
+## 🛠 Technologies and Tools
+- **FullStack**
+    - **Languages:** Java, Javascript, C#
+    - **Version Control:** Git
+    - **Backend:** MySQL
+    - **Cloud computing:** Azure
+
+- **CRM**
+    - Power BI
+    - Power Platform
+    - Power Apps
+    - Power Automate
+    - Microsoft Sustainability Manager (Sustainability Cloud)
+    - Microsoft Fabric
+- **Miscellaneous**
+    - **Quantum computing** - [Qiskit](https://github.com/Qiskit)
+
+## :scroll: Professional Certifications
+- Microsoft Certified: Azure Developer Associate (5AN6C7-C5FAE2)
+- Microsoft Certified: Azure AI Fundamentals (Y6FB73-0790E7)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (CRF555-CC025A)
+- Microsoft Certified: Azure Fundamentals (89P25A-4C0FAE)
+  
+## :diamond_shape_with_a_dot_inside: What I'm up to
+- :seedling: Currently learning
+    - **Frontend:** React
+    - **Backend:** Mongodb, Postgres
+    - **Devops**
+        - Docker
+- 🤞 One day I hope to...
+    - Go skydiving!
+    - See aurora borealis
+    - Contribute code to the [Linux Kernel](https://github.com/torvalds/linux)
+    - Get a FAANGM+ Fulltime Job(if you have this power to, please hire me)
+      
+## ✍️ Blogs
 I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](https://medium.com/@eshan.sharma108) do check them out!
 
-<h2>🛠 My Toolkit</h2>
-
-<p align="center">
-    <a title="Java" href="https://www.oracle.com/java/technologies/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/java.svg" alt="java" width="45" height="45" />
-    </a>
-    <a title="Spring Boot" href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://raw.githubusercontent.com/jhipster/jhipster.github.io/53f1d5bf62772799093e1e4cd0317d42cc0816b2/images/logo/svg/spring-boot.svg" alt="Spring Boot" width="45" height="45" />
-    </a>
-    <a title="Spring Cloud" href="https://github.com/spring-cloud" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/7815877?s=200&v=4" alt="Spring Cloud" width="45" height="45" />
-    </a>
-    <a title="Hibernate" href="https://github.com/hibernate" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/hibernate.svg" alt="Hibernate" width="45" height="45" />
-    </a>
-    <a title="Go" href="https://golang.org/" target="_blank">
-        <img src="resources/gopher.svg" alt="golang" width="45" height="45" />
-    </a>
-    <a title="JavaScript" href="" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-    </a>
-    <a title="HTML" href="https://www.w3schools.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/html-5.svg" alt="html" width="45" height="45" />
-    </a>
-    <a title="Maven" href="https://maven.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/maven.svg" alt="maven" width="45" height="50" />
-    </a>
-</p>
-<p align="center">
-    <a title="MySQL" href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
-  </a>
-    <a title="Docker" href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45" />
-    </a>
-    <a title="Kubernetes" href="https://kubernetes.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/kubernetes.svg" alt="kubernetes" width="45" height="45" />
-    </a>
-    <a title="GIT" href="https://git-scm.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="github" width="45" height="45" />
-    </a>
-    <a title="Postman" href="https://postman.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />
-    </a>
-    <a title="Linux" href="" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="45" height="45" />
-    </a>
-    <a title="Tomcat" href="http://tomcat.apache.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1280px-Apache_Tomcat_logo.svg.png" alt="tomcat" width="45" height="" />
-    </a>
-</p>
-
-
-
-
-<h2>🏆 Github Stats</h2>
+## :trophy: Github Stats
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=eshan-sharma&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-sharma&theme=dark" width="45%">
+    <img src="https://github-readme-stats.vercel.app/api?username=eshan-sharma&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-sharma&theme=dark" width="45%">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-sharma&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
-      
-<h2>🤝 Let's connect!</h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/eshan-sharma-a87b12190/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/Eshan_Sharma__" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/></a>  &nbsp;  
-    <br/>
-    <br/>
-<a href="https://github.com/eshan-sharma/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=eshan-sharma">
-</a></p>
 
-<h2>💎 Recent Activity</h2>
+## :gem: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/3) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
 2. 💪 Opened PR [#3](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/3) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
 3. 🎉 Merged PR [#1](https://github.com/Eshan-Sharma/css-exercises/pull/1) in [Eshan-Sharma/css-exercises](https://github.com/Eshan-Sharma/css-exercises)
 <!--END_SECTION:activity-->
-
-
-
-
