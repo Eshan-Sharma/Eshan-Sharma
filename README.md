@@ -56,11 +56,3 @@ I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](http
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-sharma&theme=dark" width="45%">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-sharma&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
 </p>
-
-## :gem: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/3) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
-2. 💪 Opened PR [#3](https://github.com/Eshan-Sharma/Odin-Project-Practice/pull/3) in [Eshan-Sharma/Odin-Project-Practice](https://github.com/Eshan-Sharma/Odin-Project-Practice)
-3. 🎉 Merged PR [#1](https://github.com/Eshan-Sharma/css-exercises/pull/1) in [Eshan-Sharma/css-exercises](https://github.com/Eshan-Sharma/css-exercises)
-<!--END_SECTION:activity-->
