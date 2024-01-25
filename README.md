@@ -30,13 +30,15 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
 
 ## :scroll: Professional Certifications
 - Microsoft Certified: Azure Developer Associate (5AN6C7-C5FAE2)
-- Microsoft Certified: Azure AI Fundamentals (Y6FB73-0790E7)
+- Microsoft Certified: Power BI Data Analyst Associate (B59BEB-B1CC3E)
+- Microsoft Certified: Azure AI Fundaments (Y6FB73-0790E7)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (CRF555-CC025A)
 - Microsoft Certified: Azure Fundamentals (89P25A-4C0FAE)
   
 ## :diamond_shape_with_a_dot_inside: What I'm up to
 - :seedling: Currently learning
-    - **Frontend:** React
+    - **Frontend:** React, Tailwind
+    - **State management:** Recoil
     - **Backend:** Mongodb, Postgres
     - **Devops**
         - Docker
