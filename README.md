@@ -13,10 +13,13 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
 
 ## 🛠 Technologies and Tools
 - **FullStack**
-    - **Languages:** Java, Javascript, C#
+    - **Languages:** Java, Javascript (prefer Typescript), C#
     - **Version Control:** Git
-    - **Backend:** MySQL
+    - **Frontend:** React, Tailwind
+    - **Backend:** MySQL, PostgreSQL
+    - **ORM:** Hibernate, Prisma
     - **Cloud computing:** Azure
+    - **State management:** Recoil
 
 - **CRM**
     - Power BI
@@ -37,9 +40,7 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
   
 ## :diamond_shape_with_a_dot_inside: What I'm up to
 - :seedling: Currently learning
-    - **Frontend:** React, Tailwind
-    - **State management:** Recoil
-    - **Backend:** Mongodb, Postgres
+    - **Frontend:** Deep dive in React
     - **Devops**
         - Docker
 - 🤞 One day I hope to...
