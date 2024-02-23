@@ -37,6 +37,7 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
 - Microsoft Certified: Azure AI Fundaments (Y6FB73-0790E7) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/14D863246FFBE556?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (CRF555-CC025A) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/2FDD99C3B822AB7A?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Azure Fundamentals (89P25A-4C0FAE) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/B52D23C61169EA50?sharingId=13DD0D235F772C04)
+- Microsoft Certified: Power Platform Fundamentals (S75F39-D63848) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/D8A1337EB4A2CE2F?sharingId=13DD0D235F772C04)
   
 ## :diamond_shape_with_a_dot_inside: What I'm up to
 - :seedling: Currently learning
