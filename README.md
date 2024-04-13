@@ -54,9 +54,6 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
 I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](https://medium.com/@eshan.sharma108) do check them out!
 
 ## :trophy: Github Stats
-
 <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=eshan-sharma&theme=radical&show_icons=true" alt="Aditya's Github Stats" width="45%"/>
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eshan-sharma&theme=dark" width="45%">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-sharma&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="40%">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshan-sharma&layout=compact&theme=dark&hide=css,scss,Handlebars,Makefile,Less&langs_count=10" width="50%">
 </p>
