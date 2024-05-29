@@ -32,6 +32,7 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
     - **Quantum computing** - [Qiskit](https://github.com/Qiskit)
 
 ## :scroll: Professional Certifications
+- Microsoft Certified: Azure Administrator Associate (B8D8AC-1DH4B1) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/BF0BA9D8518321F6?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Azure Developer Associate (5AN6C7-C5FAE2) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/C700B8E0A54A0EBE?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Power BI Data Analyst Associate (B59BEB-B1CC3E) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/4967CB58D3311D97?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Azure AI Fundaments (Y6FB73-0790E7) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/14D863246FFBE556?sharingId=13DD0D235F772C04)
@@ -48,7 +49,7 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
     - Go skydiving!
     - See aurora borealis
     - Contribute code to the [Linux Kernel](https://github.com/torvalds/linux)
-    - Get a FAANGM+ Fulltime Job(if you have this power to, please hire me)
+   <!-- - Get a FAANGM+ Fulltime Job(if you have this power to, please hire me) -->
       
 ## ✍️ Blogs
 I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](https://medium.com/@eshan.sharma108) do check them out!
