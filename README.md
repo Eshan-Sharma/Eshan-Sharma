@@ -2,7 +2,6 @@
 ## Hey, I'm Eshan Sharma :wave:
 ![](https://komarev.com/ghpvc/?username=eshan-sharma)
 [![Twitter: Eshan_Sharma__](https://img.shields.io/twitter/follow/Eshan_Sharma__?style=social)](https://twitter.com/Eshan_Sharma__)
-[![Linkedin: Eshan Sharma](https://img.shields.io/badge/-EshanSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eshan-sharma-a87b12190/)](https://www.linkedin.com/in/eshan-sharma-a87b12190/)
 [![Static Badge](https://img.shields.io/badge/Leetcode-grey?logo=Leetcode&link=https%3A%2F%2Fleetcode.com%2FEshan-Sharma%2F)](https://leetcode.com/Eshan-Sharma/)
 [![GitHub eshan-sharma](https://img.shields.io/github/followers/eshan-sharma?label=follow&style=social)](https://github.com/eshan-sharma)
 
