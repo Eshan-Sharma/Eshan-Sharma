@@ -8,27 +8,7 @@
 ![Move, Touch, Inspire](https://user-images.githubusercontent.com/43044334/170928139-d2f7459a-9bf6-4317-9618-b47df5721076.gif)
 
 ## :sparkles: About Me
-I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full Stack Development, exploring various aspects of the tech world. Learning new things excites me!
-
-## 🛠 Technologies and Tools
-- **FullStack**
-    - **Languages:** Java, Javascript (prefer Typescript), C#
-    - **Version Control:** Git
-    - **Frontend:** React, Tailwind
-    - **Backend:** MySQL, PostgreSQL
-    - **ORM:** Hibernate, Prisma
-    - **Cloud computing:** Azure
-    - **State management:** Recoil
-
-- **CRM**
-    - Power BI
-    - Power Platform
-    - Power Apps
-    - Power Automate
-    - Microsoft Sustainability Manager (Sustainability Cloud)
-    - Microsoft Fabric
-- **Miscellaneous**
-    - **Quantum computing** - [Qiskit](https://github.com/Qiskit)
+I'm Eshan Sharma, I solve problems
 
 ## :scroll: Professional Certifications
 - Microsoft Certified: Azure Administrator Associate (B8D8AC-1DH4B1) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/BF0BA9D8518321F6?sharingId=13DD0D235F772C04)
@@ -39,16 +19,6 @@ I'm Eshan Sharma, a CRM Manager from India with a passion for DevOps and Full St
 - Microsoft Certified: Azure Fundamentals (89P25A-4C0FAE) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/B52D23C61169EA50?sharingId=13DD0D235F772C04)
 - Microsoft Certified: Power Platform Fundamentals (S75F39-D63848) [Credential Link](https://learn.microsoft.com/api/credentials/share/en-us/EshanSharma-4105/D8A1337EB4A2CE2F?sharingId=13DD0D235F772C04)
   
-## :diamond_shape_with_a_dot_inside: What I'm up to
-- :seedling: Currently learning
-    - **Frontend:** Deep dive in React
-    - **Devops**
-        - Docker
-- 🤞 One day I hope to...
-    - Go skydiving!
-    - See aurora borealis
-    - Contribute code to the [Linux Kernel](https://github.com/torvalds/linux)
-   <!-- - Get a FAANGM+ Fulltime Job(if you have this power to, please hire me) -->
       
 ## ✍️ Blogs
 I write blogs on [Hashnode](https://eshansharma.hashnode.dev/) and [Medium](https://medium.com/@eshan.sharma108) do check them out!
